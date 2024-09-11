@@ -1,3 +1,21 @@
-#content-color {
-    background-color: blue;
+.meow {
+  background-color: #00274c;
+  width: 100vw;
+  height: 200px;
+}
+h1 {
+  text-align: center;
+  color: #ffcb05;
+  padding-top: 50px;
+  font-family: "joly-headline", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h4 {
+  text-align: center;
+  color: #ffcb05;
+  font-family: "joly-headline", sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
