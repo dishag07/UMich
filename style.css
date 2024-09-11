@@ -1,4 +1,4 @@
-.meow {
+#meow {
   background-color: #00274c;
   width: 100vw;
   height: 200px;
@@ -11,7 +11,6 @@ h1 {
   font-weight: 500;
   font-style: normal;
 }
-
 h4 {
   text-align: center;
   color: #ffcb05;
