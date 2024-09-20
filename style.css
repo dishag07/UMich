@@ -58,7 +58,7 @@ h4 {
 
 #logo {
   width: 100px;
-  height: 50px;
+  height: 80px;
 }
 
 #video {
@@ -98,4 +98,8 @@ height:360px;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 20px;
+}
+
+#Academic {
+  padding-top: 20px;
 }
